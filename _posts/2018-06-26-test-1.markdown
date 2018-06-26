@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "안녕 테스트 포스팅."
+date:   2018-04-18 08:43:59
+author: demonic
+categories: program
+tags: lorem ipsum
+---
+
+This is just a dummy post. Lorem ipsum and all the rest.
+테스트 포스팅 입니다.
+안녕하세요.
